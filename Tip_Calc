@@ -1,0 +1,11 @@
+#tip calculator
+
+meal = 25.67
+tax = .0825
+tip = .20
+
+mail = meal + (meal * tax)
+
+total = meal + (meal * tip)
+
+print total
